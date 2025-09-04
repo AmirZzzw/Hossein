@@ -10,5 +10,11 @@
         "key": "TEST",
         "expirydate": "6-9-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ee2e6bde21f6d789",
+        "key": "ARMIN",
+        "expirydate": "6-9-2025",
+        "Allowoffline": false
     }
 ]
