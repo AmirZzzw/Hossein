@@ -22,5 +22,11 @@
         "key": "XIWKW",
         "expirydate": "5-9-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "baa9292c8e66b850",
+        "key": "XIWKWOAPDN",
+        "expirydate": "5-9-2025",
+        "Allowoffline": false
     }
 ]
