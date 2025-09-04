@@ -4,5 +4,11 @@
         "key": "amir",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ee2e6bde21f6d789",
+        "key": "",
+        "expirydate": "9-9-2026",
+        "Allowoffline": false
     }
 ]
