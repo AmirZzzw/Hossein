@@ -16,5 +16,11 @@
         "key": "HAOWJDLQ",
         "expirydate": "12-9-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ee2e6bde21f6d789",
+        "key": "HAOWJDLQ",
+        "expirydate": "12-9-2026",
+        "Allowoffline": false
     }
 ]
