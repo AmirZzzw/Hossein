@@ -4,5 +4,11 @@
         "key": "THOPS",
         "expirydate": "12-9-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ee2e6bde21f6d789",
+        "key": "ZXHEY",
+        "expirydate": "12-9-2025",
+        "Allowoffline": false
     }
 ]
