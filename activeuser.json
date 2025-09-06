@@ -22,17 +22,5 @@
         "key": "MORTEZAPNL",
         "expirydate": "7-9-2025",
         "Allowoffline": false
-    },
-    {
-        "device_id": "ee04653b19f185a4",
-        "key": "HSPWID",
-        "expirydate": "7-9-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "ee04653b19f185a4",
-        "key": "HSPWID",
-        "expirydate": "7-9-2025",
-        "Allowoffline": false
     }
 ]
