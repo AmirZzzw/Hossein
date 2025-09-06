@@ -34,5 +34,11 @@
         "key": "TOTOPNL",
         "expirydate": "7-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a21fe167810a869b",
+        "key": "FSIAPCM",
+        "expirydate": "12-9-2025",
+        "Allowoffline": false
     }
 ]
