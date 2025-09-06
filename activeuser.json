@@ -28,5 +28,11 @@
         "key": "AMIRPNL",
         "expirydate": "30-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "89a07bf232a6a71d",
+        "key": "MORTEZAPNL",
+        "expirydate": "7-9-2025",
+        "Allowoffline": false
     }
 ]
