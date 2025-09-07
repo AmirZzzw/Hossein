@@ -58,5 +58,11 @@
         "key": "CTYUIOPNM",
         "expirydate": "8-9-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b559d4a986cf9c85",
+        "key": "CSKSVWPSN",
+        "expirydate": "8-9-2025",
+        "Allowoffline": false
     }
 ]
