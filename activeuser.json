@@ -94,5 +94,11 @@
         "key": "DGWOCBBNP",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "70276132b1b25345",
+        "key": "ARTAPNL",
+        "expirydate": "23-9-2025",
+        "Allowoffline": false
     }
 ]
