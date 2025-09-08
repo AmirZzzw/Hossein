@@ -88,5 +88,11 @@
         "key": "CPNLKIPPNL",
         "expirydate": "16-9-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "713d33a3c137f059",
+        "key": "DGWOCBBNP",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
