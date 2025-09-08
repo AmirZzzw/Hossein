@@ -76,5 +76,11 @@
         "key": "CTYUIOPNM",
         "expirydate": "9-9-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "360f12d15e84e599",
+        "key": "SHAHINPNL",
+        "expirydate": "10-9-2025",
+        "Allowoffline": false
     }
 ]
