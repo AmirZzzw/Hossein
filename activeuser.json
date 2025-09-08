@@ -82,5 +82,11 @@
         "key": "SHAHINPNL",
         "expirydate": "10-9-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ee2e6bde21f6d789",
+        "key": "ALIREXOPNL",
+        "expirydate": "30-12-2026",
+        "Allowoffline": false
     }
 ]
