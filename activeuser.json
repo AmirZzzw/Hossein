@@ -70,5 +70,11 @@
         "key": "AMITPNL",
         "expirydate": "12-9-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "29eea7d2b8c2269b",
+        "key": "CTYUIOPNM",
+        "expirydate": "9-9-2025",
+        "Allowoffline": false
     }
 ]
