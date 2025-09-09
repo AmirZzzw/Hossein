@@ -106,5 +106,11 @@
         "key": "MADARAPNL",
         "expirydate": "11-9-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5d09e7b2ac58d288",
+        "key": "RAKZOFFPNL",
+        "expirydate": "17-9-2025",
+        "Allowoffline": false
     }
 ]
