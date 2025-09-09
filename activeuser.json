@@ -100,5 +100,11 @@
         "key": "ARTAPNL",
         "expirydate": "23-9-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c3a054983e1bf455",
+        "key": "MADARAPNL",
+        "expirydate": "11-9-2025",
+        "Allowoffline": false
     }
 ]
