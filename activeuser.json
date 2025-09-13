@@ -118,5 +118,11 @@
         "key": "ROXEOPNL",
         "expirydate": "12-9-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7607d224a52fda79",
+        "key": "JEFWPBCPE",
+        "expirydate": "15-9-2025",
+        "Allowoffline": false
     }
 ]
