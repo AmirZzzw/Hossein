@@ -130,5 +130,11 @@
         "key": "SHAHKARAJPNL",
         "expirydate": "16-9-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c5a5b1c6d9178cdb",
+        "key": "SCAYEPNL",
+        "expirydate": "15-10-2025",
+        "Allowoffline": false
     }
 ]
