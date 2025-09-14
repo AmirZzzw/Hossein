@@ -124,5 +124,11 @@
         "key": "HRYWOTFEOCPNL",
         "expirydate": "16-9-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "088fe2ac11449c5d",
+        "key": "SHAHKARAJPNL",
+        "expirydate": "16-9-2025",
+        "Allowoffline": false
     }
 ]
