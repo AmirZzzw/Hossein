@@ -136,5 +136,11 @@
         "key": "SCAYEPNL",
         "expirydate": "15-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7d33804628147d16",
+        "key": "MORTEZAPNL",
+        "expirydate": "17-9-2025",
+        "Allowoffline": false
     }
 ]
