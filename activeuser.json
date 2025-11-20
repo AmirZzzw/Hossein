@@ -166,5 +166,11 @@
         "key": "RUBIKAUSER",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "174ebbe53e825d45",
+        "key": "NIMA",
+        "expirydate": "30-12-2099",
+        "Allowoffline": false
     }
 ]
